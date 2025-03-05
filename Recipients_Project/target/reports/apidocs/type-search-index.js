@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"dataaccesslayer","l":"DataSource"},{"p":"Lab1","l":"PropertiesLab"},{"p":"dataaccesslayer","l":"RecipientDAO"},{"p":"dataaccesslayer","l":"RecipientDAOImpl"},{"p":"transferobjects","l":"RecipientDTO"},{"p":"businesslayer","l":"RecipientService"}];updateSearchResults();

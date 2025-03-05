@@ -1,0 +1,6 @@
+dataaccesslayer\DataSource.class
+businesslayer\RecipientService.class
+dataaccesslayer\RecipientDAO.class
+transferobjects\RecipientDTO.class
+dataaccesslayer\RecipientDAOImpl.class
+Lab1\PropertiesLab.class
